@@ -1,0 +1,41 @@
+
+body{color: white; background-color: black;}
+legend{color: black; background:#F5D0A9;}
+h2{color: #F5D0A9; }
+
+#cabecalho{font-size:86%; width: 70%; left:13%; position: relative;}
+
+#questao1{color: black; background-color: #F5D0A9; font-family: garamond; width: 70%; left:13%; position: relative;}
+#questao2{color: black; background-color: #F5D0A9; font-family: garamond; width: 70%; left:13%; position: relative;}
+#questao3{color: black; background-color: #F5D0A9; font-family: garamond; width: 70%; left:13%; position: relative;}
+#questao4{color: black; background-color: #F5D0A9; font-family: garamond; width: 70%; left:13%; position: relative;}
+#questao5{color: black; background-color: #F5D0A9; font-family: garamond; width: 70%; left:13%; position: relative;}
+#questao6{color: black; background-color: #F5D0A9; font-family: garamond; width: 70%; left:13%; position: relative;}
+#questao7{color: black; background-color: #F5D0A9; font-family: garamond; width: 70%; left:13%; position: relative;}
+#questao8{color: black; background-color: #F5D0A9; font-family: garamond; width: 70%; left:13%; position: relative;}
+#questao9{color: black; background-color: #F5D0A9; font-family: garamond; width: 70%; left:13%; position: relative;}
+#questao10{color: black; background-color:#F5D0A9; font-family: garamond; width: 70%; left:13%; position: relative;}
+
+#avaliar{color: black; background-color:#A9F5BC; font-family: garamond; width: 70%; left:13%; position: absolute; }
+
+
+
+
+
+
+
+/*SPARE PARTS
+
+h4{color: white;}
+
+#conjunto_de_links{background: #8A2908; position: absolute; top: 1%; right: -40%;
+font-family:garamond, sans-serif; font-size: 130%; color: #F7BE81; 
+height: 14%; width: 47%; margin: "auto";}
+
+#frase{background: none; position: absolute; top:25%; left:0%;
+ height:10%; width: 65%; font-size: 130%;}
+
+#imagem{margin-left: 32%; margin-top: 14%;  height: 70%; 
+width: 90%; position: absolute; }*/
+
+/*#imgq2{position: relative; height="50%"; width="50%";}*/
